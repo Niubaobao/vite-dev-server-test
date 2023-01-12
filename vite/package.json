@@ -1,0 +1,19 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "es-module-lexer": "^1.1.0",
+    "esbuild": "^0.16.17",
+    "http": "^0.0.1-security",
+    "koa": "^2.14.1",
+    "magic-string": "^0.27.0"
+  }
+}
